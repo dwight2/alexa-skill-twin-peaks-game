@@ -19,7 +19,7 @@
  * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
  * Make sure the first answer is the correct one. Set at least 4 answers, any extras will be shuffled in.
  */
-var questions = [
+var questions = [ 
 
     {"In which U.S. state is Twin Peaks.": ["Washington", "Colorado", "Montana", "Wyoming"]},
     {"Which actor plays Shelly?": ["Mädchen Amick", "Lara Flynn Boyle", "Sherilyn Fenn", "Peggy Lipton"]},
