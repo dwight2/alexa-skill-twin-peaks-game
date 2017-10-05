@@ -1,6 +1,8 @@
 # Alexa Skill: Twin Peaks Game
 Modifying AWS's trivia template, I made a multiple choice Twin Peaks quiz for Amazon Alexa. It has since been published!
 
+##[Twin Peaks Game](https://www.amazon.com/dp/B07639SSX2)
+
 ## Requirements
 * [AWS Template](https://github.com/alexa/skill-sample-nodejs-trivia)
 * [AWS Services account](https://console.aws.amazon.com/)
